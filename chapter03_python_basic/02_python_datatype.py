@@ -44,4 +44,3 @@ b = collections.Counter(a)
 
 print(b)
 print(b.most_common(2))
-print(b.get(5))
